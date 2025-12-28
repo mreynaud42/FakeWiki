@@ -25,7 +25,7 @@ The main goal is to visually reproduce Wikipedia's Christmas page as accurately 
 This project is **not affiliated with Wikipedia** and is purely for educational purposes.
 
 
-<a id="project-context"></a>
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```
