@@ -11,16 +11,16 @@ FakeWiki is a personal project aimed at visually reproducing Wikipedia's Christm
 
 - [Project Context](#project-context)
 - [Project Structure](#project-structure)
+- [Result](#result)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
-- [License](#license)
 
 
 <a id="project-context"></a>
 ## 📘 Project Context
 
 FakeWiki is a personal project created for learning and practicing **HTML and CSS**.  
-The main goal is to visually reproduce Wikipedia's Christmas page as accurately as possible, focusing on layout, typography, and styling without using any JavaScript or frameworks.  
+The main goal is to visually reproduce Wikipedia's Christmas page as accurately as possible with a **fully responsive layout** adapting to all screen sizes (desktop, tablet, mobile).  
 
 This project is **not affiliated with Wikipedia** and is purely for educational purposes.
 
@@ -39,6 +39,16 @@ FakeWiki/
 └── README.md
 ```
 
+
+<a id="result"></a>
+## ✨ Result
+
+Below is a preview of the final rendered page, faithfully reproducing the layout and style  
+of Wikipedia’s Christmas page.
+
+![screen of FakeWiki](screenshots/screenshot_fakewiki.png)
+
+
 <a id="disclaimer"></a>
 ## ⚠️ Disclaimer
 
@@ -48,9 +58,4 @@ FakeWiki/
 ## 👤 Author
 
 [mreynaud42](https://github.com/mreynaud42)
-
-<a id="license"></a>
-## 📄 License
-
-All rights reserved.
 
